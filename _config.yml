@@ -1,7 +1,7 @@
 # Site settings
 
 source: src
-title: hk # site title
+title: انباری # site title
 description: >- # site description
   یک تم فارسی برای Jekyll.  کد سیمرغ در <a href="https://github.com/mhdzli/simorq" target="_blank" rel="noopener">گیت‌هاب</a>.
 lang: fa # default lang
