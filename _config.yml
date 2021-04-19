@@ -3,7 +3,7 @@
 source: src
 title: انبار # site title
 description: >- # site description
-جایی برای خرت و پرت هایم
+  یک تم فارسی برای Jekyll.  کد سیمرغ در <a href="https://github.com/mhdzli/simorq" target="_blank" rel="noopener">گیت‌هاب</a>.
 lang: fa # default lang
 timezone: Asia/Tehran # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
