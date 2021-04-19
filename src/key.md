@@ -1,7 +1,7 @@
 ---
 title: 
 permalink: /key/
-layout: home
+layout: post
 excerpt: کلیدهایم
 comments: false
 ---
