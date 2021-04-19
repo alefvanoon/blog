@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: اسم شما # author name
+  name: الف و نون # author name
   bio: >- # tell to the world
     یک تم Jekyll برای وبلاگ فارسی. اگر تم روشن را بیشتر می‌پسندید، روی خورشید بالای صفحه سمت راست کلیک کنید.
 
