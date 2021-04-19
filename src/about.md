@@ -1,5 +1,5 @@
 ---
-title: الف
+title: الف 
 permalink: /about/
 layout: page
 excerpt: یک تم فارسی برای Jekyll
