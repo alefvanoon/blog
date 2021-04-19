@@ -14,10 +14,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: الف و نون # author name
   bio: >- # tell to the world
-    یک تم Jekyll برای وبلاگ فارسی. اگر تم روشن را بیشتر می‌پسندید، روی خورشید بالای صفحه سمت راست کلیک کنید.
-
-    لینک این پروژه در
-    <a href="https://github.com/mhdzli/simorq" target="_blank" rel="noopener">گیت‌هاب</a>.
+    اسا
 
   username:  your_username # general username
   github: your_github_username # github username
