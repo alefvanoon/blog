@@ -1,5 +1,5 @@
 ---
-title: ;gdn
+title: کلید
 permalink: /key/
 layout: post
 excerpt: کلیدهایم
