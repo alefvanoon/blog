@@ -24,7 +24,7 @@ author:
   lbry: https://your_instance.address/@your_username # lbry url
   pixelfed: https://your_instance.address/your_username # your pixelfed url
   mastodon: # mastodon urls
-    first: https://your_instance.address/@your_username
+    first: https://mas.to/@alefvanoon
     second: 
   email: your@email.address # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
