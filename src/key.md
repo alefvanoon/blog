@@ -1,5 +1,5 @@
 ---
-title: کلید
+title: 
 permalink: /key/
 layout: page
 excerpt: کلیدهایم
