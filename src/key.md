@@ -2,7 +2,7 @@
 title: 
 permalink: /key/
 layout: post
-excerpt: کلیدهایم
+excerpt: کلید
 comments: false
 ---
 
