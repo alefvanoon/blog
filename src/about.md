@@ -2,7 +2,7 @@
 title: الف و نون
 permalink: /about/
 layout: page
-excerpt: ا
+excerpt: یک تم فارسی برای Jekyllا
 comments: false
 ---
 
