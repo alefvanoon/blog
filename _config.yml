@@ -16,7 +16,7 @@ author:
   bio: >- # tell to the world
     بی‌بهره از عقل و شعور کافی.
 
-  username:  your_username # general username
+  username:  alefvanoon # general username
   github: alefvanoon # github username
   twitter: your_twitter_username # twitter username
   # you can add your accounts of other social media  but you need to edit footer.html in _includes directory and add other sosial media links based on existing  templates
