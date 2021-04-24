@@ -1,0 +1,74 @@
+stackbitVersion: ~0.3.0
+ssgName: jekyll
+publishDir: _site
+dataDir: _data
+pagesDir: ''
+models:
+  src:
+    type: page
+    label: Src
+    folder: src
+    match:
+      - 404.md
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: number
+        name: layout
+        label: Layout
+        subtype: int
+      - type: string
+        name: permalink
+        label: Permalink
+  src_1:
+    type: page
+    label: Src 1
+    folder: src
+    match:
+      - index.md
+    fields:
+      - type: string
+        name: layout
+        label: Layout
+  src_2:
+    type: page
+    label: Src 2
+    folder: src
+    match:
+      - key.md
+    fields:
+      - type: string
+        name: permalink
+        label: Permalink
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: excerpt
+        label: Excerpt
+      - type: boolean
+        name: comments
+        label: Comments
+  src_3:
+    type: page
+    label: Src 3
+    folder: src
+    match:
+      - thanks.md
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: permalink
+        label: Permalink
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: excerpt
+        label: Excerpt
+      - type: boolean
+        name: comments
+        label: Comments
