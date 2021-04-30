@@ -1,7 +1,7 @@
 ---
 title: کلید
 permalink: /key/
-layout: حش
+layout: page
 excerpt: کلید
 comments: false
 ---
