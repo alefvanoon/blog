@@ -30,7 +30,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://alefvanoon.xy" # your domain 
+url: "https://alefvanoon.xyz" # your domain 
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
