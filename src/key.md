@@ -1,5 +1,5 @@
 ---
-title: ;
+title: کلید
 permalink: /key/
 layout: post
 excerpt: کلید
