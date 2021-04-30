@@ -1,7 +1,7 @@
 # Site settings
 
 source: src
-title: انبار # site title
+title: hg # site title
 description: >- # site description
   جایی برای خرت و پرت‌هایم...
 lang: fa # default lang
