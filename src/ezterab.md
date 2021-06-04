@@ -20,7 +20,7 @@ comments: false
 <div dir="rtl">&nbsp;</div>
 <div dir="rtl"><input type="checkbox" />از ابزارهای دم دستت چیزی هست که کنده و شکسته و اذیت میکنه؟</div>
 <div dir="rtl">&nbsp;</div>
-<div dir="rtl"><input type="checkbox" />از بودنت چیزی هست که اذیتت میکنه؟ (الگوی فکری خاصی، بدنت (چاقی مثل))</div>
+<div dir="rtl"><input type="checkbox" />از بودنت چیزی هست که اذیتت میکنه؟ (الگوی فکری خاصی، بدنت (چاقی مثلا))</div>
 <div dir="rtl">&nbsp;</div>
 <div dir="rtl"><input type="checkbox" />مطمئن نیستی که در این لحظه باید در حال انجام دادن همین کاری باشی که هستی؟</div>
 <div dir="rtl">&nbsp;</div>
