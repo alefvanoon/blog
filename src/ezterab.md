@@ -1,5 +1,5 @@
 ---
-title: اضطراب
+title: چک لیست اضطراب
 permalink: /ezterab/
 layout: page
 excerpt: اضطراب
