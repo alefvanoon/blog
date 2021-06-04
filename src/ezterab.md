@@ -1,7 +1,7 @@
 ---
-title: اظطراب
+title: اضطراب
 permalink: /ezterab/
 layout: page
-excerpt: اظطراب
+excerpt: اضطراب
 comments: false
 ---
