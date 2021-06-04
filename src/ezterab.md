@@ -1,7 +1,7 @@
 ---
-title: کلید
+title: اظطراب
 permalink: /ezterab/
 layout: page
-excerpt: کلید
+excerpt: اظطراب
 comments: false
 ---
